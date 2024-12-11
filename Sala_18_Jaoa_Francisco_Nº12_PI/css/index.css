@@ -1,0 +1,27 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    margin: 30px;
+}
+
+  th {
+    text-align: left;
+  }
+  table {
+    border-collapse: collapse;
+    width: 50%;
+    margin-top: 30px;
+  }
+form {
+    max-width: 500px;
+    display: flex;
+    flex-direction: column;
+}
+
+ol, ul {
+    margin-top: 50px;
+}
